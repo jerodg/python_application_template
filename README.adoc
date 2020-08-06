@@ -1,0 +1,64 @@
+:doctype: article
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 10, 2020
+:revdate: {docdatetime}
+:description: Python Application Template
+:keywords: python, application, template
+:sectanchors:
+:sectlinks:
+:sectnums:
+:experimental:
+:icons: font
+:checkedbox: pass:normal[{startsb}&#10004;{endsb}]
+:checkbox: pass:normal[{startsb}  {endsb}]
+:source-highlighter: highlightjs
+:toc:
+
+= Python Application Template
+
+image:https://img.shields.io/badge/platform-Mac/*nix/Windows-blue.svg[platform]
+image:https://img.shields.io/badge/python-3.8%2B-blue.svg[python]
+image:https://img.shields.io/badge/license-GNU_AGPL_v3-green.svg[license]
+
+.About
+****
+A Template for Python Applications
+****
+
+== Getting Started
+
+=== Prerequisites
+
+=== Installation
+
+
+== Usage
+
+
+== Roadmap
+
+
+== Contributing
+
+
+== License
+Copyright (C) 2018-2020 Jerod Gawne <https://github.com/jerodg/>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+== Contact
+
+
+== Acknowledgements
