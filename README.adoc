@@ -17,9 +17,9 @@
 
 = Python Application Template
 
-image:https://img.shields.io/badge/platform-Mac/*nix/Windows-blue.svg[platform]
-image:https://img.shields.io/badge/python-3.8%2B-blue.svg[python]
-image:https://img.shields.io/badge/license-GNU_AGPL_v3-green.svg[license]
+image:https://img.shields.io/badge/Platform-Mac/*nix/Windows-blue.svg[platform]
+image:https://img.shields.io/badge/Python-3.8%2B-blue.svg[python]
+image:https://img.shields.io/badge/License-GNU_AGPL_v3-green.svg[license]
 
 .About
 ****
